@@ -1,0 +1,210 @@
+{
+    "HE001": {
+        "categoria": "Processador",
+        "descrição": "AMD Ryzen 5 5500",
+        "valor de compra": 549.90,
+        "valor de venda": 659.88,
+        "quantidade": 32,
+        "nota_fiscal": "63216",
+        "status": "ativo"
+    },
+    "HE002": {
+        "categoria": "Processador",
+        "descrição": "AMD Ryzen 5 5600GT",
+        "valor de compra": 1199.99,
+        "valor de venda": 1439.99,
+        "quantidade": 32,
+        "nota_fiscal": "91094",
+        "status": "ativo"
+    },
+    "HE003": {
+        "categoria": "Processador",
+        "descrição": "AMD Ryzen 5 5600",
+        "valor de compra": 1319.90,
+        "valor de venda": 1583.88,
+        "quantidade": 29,
+        "nota_fiscal": "61522",
+        "status": "ativo"
+    },
+    "HE004": {
+        "categoria": "Processador",
+        "descrição": "Intel Core I5 12400F",
+        "valor de compra": 739.90,
+        "valor de venda": 887.88,
+        "quantidade": 27,
+        "nota_fiscal": "65766",
+        "status": "ativo"
+    },
+    "HE005": {
+        "categoria": "Processador",
+        "descrição": "AMD Ryzen 7 5700X",
+        "valor de compra": 1199.90,
+        "valor de venda": 1439.88,
+        "quantidade": 30,
+        "nota_fiscal": "54077",
+        "status": "ativo"
+    },
+    "HE006": {
+        "categoria": "Placa de Vídeo",
+        "descrição": "NVIDIA GeForce RTX 4060 8GB",
+        "valor de compra": 2299.90,
+        "valor de venda": 2759.88,
+        "quantidade": 29,
+        "nota_fiscal": "70168",
+        "status": "ativo"
+    },
+    "HE007": {
+        "categoria": "Placa de Vídeo",
+        "descrição": "XFX AMD Radeon RX7600 8GB",
+        "valor de compra": 1199.90,
+        "valor de venda": 2399.88,
+        "quantidade": 28,
+        "nota_fiscal": "38478",
+        "status": "ativo"
+    },
+    "HE008": {
+        "categoria": "Placa de Vídeo",
+        "descrição": "NVIDIA GeForce RTX 4060 Ti 8GB",
+        "valor de compra": 3499.90,
+        "valor de venda": 4199.88,
+        "quantidade": 28,
+        "nota_fiscal": "36115",
+        "status": "ativo"
+    },
+    "HE009": {
+        "categoria": "Placa de Vídeo",
+        "descrição": "NVIDIA GeForce RTX 3060 12GB",
+        "valor de compra": 2149.90,
+        "valor de venda": 2579.88,
+        "quantidade": 30,
+        "nota_fiscal": "84649",
+        "status": "ativo"
+    },
+    "HE010": {
+        "categoria": "Placa Mãe",
+        "descrição": "AsRock AMD Radeon RX 7600 8GB",
+        "valor de compra": 1799.90,
+        "valor de venda": 2159.88,
+        "quantidade": 34,
+        "nota_fiscal": "79523",
+        "status": "ativo"
+    },
+    "HU001": {
+        "categoria": "Setup",
+        "descrição": "PC Home Completo Pichau HM507, AMD Ryzen 3 3200G, 8GB DDR4, SSD 120GB + Cadeira Office + Monitor + Kit Teclado e Mouse",
+        "valor de compra": 1429.97,
+        "localização": "Vendas",
+        "responsável": "Lucas",
+        "status": "ativo"
+    },
+    "HU032": {
+        "categoria": "Projetor",
+        "descrição": "Projetor Intelbras Full Hd 3800 Lumens",
+        "valor de compra": 1799.90,
+        "localização": "Sala de Reunião",
+        "responsável": "-",
+        "status": "ativo"
+    },
+    "HU033": {
+        "categoria": "Tablet",
+        "descrição": "Tablet X95 Pro",
+        "valor de compra": 640.00,
+        "localização": "Sala de Reunião",
+        "responsável": "-",
+        "status": "ativo"
+    },
+    "HU036": {
+        "categoria": "Telefone",
+        "descrição": "Telefone Headset Telemarketing",
+        "valor de compra": 367.00,
+        "localização": "Recepção",
+        "responsável": "Vanessa",
+        "status": "ativo"
+    },
+    "HU038": {
+        "categoria": "Máquina de Cartão",
+        "descrição": "Laranjinha Pin Pad Itaú",
+        "valor de compra": 0.00,
+        "localização": "Recepção",
+        "responsável": "Vanessa",
+        "status": "ativo"
+    },
+    "HU040": {
+        "categoria": "Impressora",
+        "descrição": "Impressora Multifuncional HP Deskjet Ink Advantage 2874",
+        "valor de compra": 393.59,
+        "localização": "Recepção",
+        "responsável": "Vanessa",
+        "status": "ativo"
+    },
+    "SW001": {
+        "categoria": "Sistema Operacional",
+        "descrição": "Windows 11 Pro",
+        "status": "ativo"
+    },
+    "SW032": {
+        "categoria": "Programas",
+        "descrição": "Pacote Office 365",
+        "status": "ativo"
+    },
+    "SW063": {
+        "categoria": "Antivírus",
+        "descrição": "McAfee Antivírus",
+        "status": "ativo"
+    },
+    "SW094": {
+        "categoria": "Design",
+        "descrição": "Adobe CC Completo",
+        "status": "ativo"
+    },
+    "FT001": {
+        "descrição": "Chave Philips PH0 x 75mm",
+        "localização": "Montagem (Bancada 1)",
+        "status": "ativo"
+    },
+    "FT002": {
+        "descrição": "Chave Philips PH1 x 75mm",
+        "localização": "Montagem (Bancada 1)",
+        "status": "ativo"
+    },
+    "FT003": {
+        "descrição": "Chave Philips PH2 x 38mm",
+        "localização": "Montagem (Bancada 1)",
+        "status": "ativo"
+    },
+    "FT004": {
+        "descrição": "Chave Philips PH3 x 150mm",
+        "localização": "Montagem (Bancada 1)",
+        "status": "ativo"
+    },
+    "FT005": {
+        "descrição": "Chave de Fenda 3 x 75mm",
+        "localização": "Montagem (Bancada 1)",
+        "status": "ativo"
+    },
+    "FT006": {
+        "descrição": "Chave de Fenda 5 x 75mm",
+        "localização": "Montagem (Bancada 1)",
+        "status": "ativo"
+    },
+    "FT007": {
+        "descrição": "Chave de Fenda 6 x 38mm",
+        "localização": "Montagem (Bancada 1)",
+        "status": "ativo"
+    },
+    "FT008": {
+        "descrição": "Chave de Fenda 6 x 150mm",
+        "localização": "Montagem (Bancada 1)",
+        "status": "ativo"
+    },
+    "FT009": {
+        "descrição": "Chave Allen 1,5mm",
+        "localização": "Montagem (Bancada 1)",
+        "status": "ativo"
+    },
+    "FT010": {
+        "descrição": "Chave Allen 2,5mm",
+        "localização": "Montagem (Bancada 1)",
+        "status": "ativo"
+    }
+}
